@@ -1,10 +1,9 @@
-### Olá, meu nome é Israel   ###
+# Olá, meu nome é Israel 😊  #
 
+### Sobre Mim ###
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isra_andreotti/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-andreotti/)
-
-[![israelitas](https://github-readme-stats.vercel.app/api/top-langs/?username=israelitas&layout=compact)](https://github.com/israelitas/github-readme-stats)
+- 🖥️ Estudo Desenvolvimento Web
+- 🌱 Me aperfeiçoando em Node.Js
 
 ### Tecologias utilizadas ###
 <div style="display: inline-block"><br/>
@@ -14,6 +13,13 @@
     <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div><br/><br/>
 
-# Contato
+[![israelitas](https://github-readme-stats.vercel.app/api/top-langs/?username=israelitas&layout=compact)](https://github.com/israelitas/github-readme-stats)
 
--Email: israel.andreotti01@gmail.com
+
+### Contato ###
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isra_andreotti/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-andreotti/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](israel.andreotti01@gmail.com)
+
+
