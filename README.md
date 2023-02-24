@@ -1,4 +1,4 @@
-# Olá, meu nome é Israel 😊  #
+# Olá, eu sou o Israel 😊  #
 
 ### Sobre Mim ###
 
