@@ -2,8 +2,8 @@
 
 ### Sobre Mim ###
 
-- 🖥️ Estudo Desenvolvimento Web
-- 🌱 Me aperfeiçoando em Node.Js
+- 🖥️ Desenvolvedor web.
+- 🌱 Me aperfeiçoando em Node.Js.
 
 ### Tecnologias utilizadas ###
 <div style="display: inline-block"><br/>
