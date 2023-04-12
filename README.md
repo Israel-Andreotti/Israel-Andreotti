@@ -3,7 +3,7 @@
 ### Sobre Mim ###
 
 - 🖥️ Desenvolvedor web.
-- 🌱 Me aperfeiçoando em Node.Js.
+- 🌱 Me aperfeiçoando cada dia um pouco mais.
 
 ### Tecnologias utilizadas ###
 <div style="display: inline-block"><br/>
