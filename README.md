@@ -4,6 +4,7 @@
 
 - 🖥️ Desenvolvedor web.
 - 📚 Estudante de análise e desenvolvimento de sistemas.
+- 🤝 Atualmente aprendendo CI/CD.
 - 📈 Me aperfeiçoando cada dia um pouco mais.
 
 ### Tecnologias que utilizo ###
@@ -18,10 +19,6 @@
 
 ### Linguagens que mais utilizo ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelitas&layout=donut)](https://github.com/israelitas/github-readme-stats)
-
-
-### Experiência ###
-[![israelita's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=israelitas)](https://github.com/israelitas/github-readme-stats)
 
 ### Vem conversar comigo 🙋‍♂️ ###
 
