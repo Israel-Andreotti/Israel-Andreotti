@@ -16,6 +16,8 @@
 
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelitas&layout=donut)](https://github.com/israelitas/github-readme-stats)
+
 ### Vem conversar comigo 🙋‍♂️ ###
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isra_andreotti/)
