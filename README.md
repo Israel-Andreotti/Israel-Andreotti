@@ -17,7 +17,7 @@
 </div><br/>
 
 ### Linguagens que mais utilizo ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelitas&layout=pie)](https://github.com/israelitas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelitas&layout=donut)](https://github.com/israelitas/github-readme-stats)
 
 ### Vem conversar comigo 🙋‍♂️ ###
 
