@@ -1,24 +1,28 @@
-# Olá, eu sou o Israel 😊 #
+ 👋 Olá! Me chamo Israel, um entusiasta de Business Intelligence em ascensão, em busca de insights por meio de dados. Atualmente, estou focado em aprimorar minhas habilidades em Power BI e SQL, com a missão de me tornar um analista de BI altamente competente.
 
-### Sobre Mim ⬇️ ###
+📊 Minhas Áreas de Interesse:
+- Business Intelligence
+- Data Visualization
+- Análise de Dados
+- SQL
+- Power BI
 
-- 🖥️ Aprendendo Power BI.
-- 📚 Estudante de análise e desenvolvimento de sistemas.
-- 📈 Me aperfeiçoando cada dia um pouco mais.
+🛠️ O que estou fazendo:
+- Estudando e praticando Power BI para criar visualizações impactantes e painéis de controle eficazes.
+- Aprofundando meus conhecimentos em SQL para extrair e manipular dados com precisão.
+- Explorando projetos pessoais e colaborações para aplicar o que aprendi.
 
-### Tecnologias que utilizo ###
-<div style="display: inline-block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+💼 Meus Objetivos Futuros:
+- Tornar-me um Analista de BI habilidoso, transformando dados em insights valiosos.
+- Contribuir para projetos de análise de dados que impulsionem tomadas de decisão informadas.
+- Compartilhar meu aprendizado e experiência com a comunidade de dados.
 
-</div><br/>
+📫 Vamos Conectar:
+- LinkedIn: https://www.linkedin.com/in/israel-andreotti/
+- Instagram: https://www.instagram.com/isra_andreotti/
 
-### Vem conversar comigo 🙋‍♂️ ###
+Fique à vontade para explorar meus projetos e acompanhar minha jornada de aprendizado em Business Intelligence. Estou sempre em busca de novas oportunidades e colaborações emocionantes na área de dados.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isra_andreotti/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-andreotti/)
 
 
 
