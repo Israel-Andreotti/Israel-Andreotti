@@ -22,7 +22,7 @@
 ## Soon I'll be studying:
 
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+<!--![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;-->
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
