@@ -1,9 +1,9 @@
-<h1 align="center">Bem Vindo</h1>
+<h1 align="center">Welcome</h1>
 
-<h3 align="center">Bem-vindo ao meu repositório de portfólio! Este é um espaço onde compartilho alguns dos meus projetos e demonstrações de habilidades em desenvolvimento front-end. </h3>
+<h3 align="center">Welcome to my portfolio! This is a space where I share some of my projects and demonstrations of front-end development skills. </h3>
 
-<h3 align="left">Sobre mim:</h3>
-<p align="justify">Sou apaixonado por criar experiências digitais incríveis e estou buscando meu primeiro emprego como desenvolvedor front-end. Tenho conhecimento em HTML, CSS e JavaScript. E em breve estarei embarcando na jornada de frameworks com React e Angular.</p>
+<h3 align="left">About me:</h3>
+<p align="justify">I am passionate about creating amazing digital experiences and I am seeking my first job as a front-end developer. I have knowledge of HTML, CSS, and JavaScript. Soon, I will embark on the journey of frameworks with React and Angular.</p>
 
 <div  align="center" style="margin-bottom:100px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=israelitas&theme=radical&mode=weekly" />
