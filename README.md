@@ -6,8 +6,8 @@
 <p align="justify">I am passionate about creating amazing digital experiences and I am seeking my first job as a front-end developer. I have knowledge of HTML, CSS, and JavaScript. Soon, I will embark on the journey of frameworks with React and Angular.</p>
 
 <div  align="center" style="margin-bottom:100px">
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=israelitas&theme=radical&mode=weekly" />
-  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=israelitas&show_icons=true&theme=radical&layout=compact" />
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Israel-Andreotti&theme=radical&mode=weekly" />
+  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Israel-Andreotti&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 ## Main Stack:
