@@ -5,10 +5,10 @@
 <h3 align="left">About me:</h3>
 <p align="justify">I am passionate about creating amazing digital experiences and I am seeking my first job as a front-end developer. I have knowledge of HTML, CSS, and JavaScript. Soon, I will embark on the journey of frameworks with React and Angular.</p>
 
-<div  align="center" style="margin-bottom:100px">
+<!--<div  align="center" style="margin-bottom:100px">
   <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Israel-Andreotti&show_icons=true&theme=radical&layout=compact" />
 </div>
-
+_-->
 <h3>Main Stack:</h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
